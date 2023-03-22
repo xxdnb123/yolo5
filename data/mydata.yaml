@@ -1,0 +1,4 @@
+train: D:/yanbo/yolov5-master/yolov5-master/data/ImageSets/train.txt
+val: D:/yanbo/yolov5-master/yolov5-master/data/ImageSets/val.txt
+nc: 2
+names: ['none','exist']
